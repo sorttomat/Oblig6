@@ -1,0 +1,282 @@
+1 0 Ole-Johan Dahl (October 12, 1931 / June 29, 2002) was a Norwegian computer scientist and is considered to be the father of Simula and object-oriented programming, together with Kristen Nygaard.
+
+1 1 Dahl is a member of the small group of scientists who will be regarded as founders of their own field of science. His field was informatics and he won the two most prestigious international prizes specific to that field: The ACM A.M. Turing Award (considered to be the "Nobel Prize of Computing"), in 2001 and the IEEE John von Neumann Medal. He was made Commander of The Order of Saint Olav by the King of Norway in 2000, and received a number of other signs of recognition.
+
+1 2 With Kristen Nygaard, he produced the initial ideas for object-oriented (OO) programming in the 1960s at the Norwegian Computing Center (NR - Norsk Regnesentral) as part of the Simula I (1961-1965) and Simula 67 (1965-1968) simulation programming languages
+
+1 3 Dahl and Nygaard were the first to develop the concepts of class, subclass (allowing information hiding), inheritance, dynamic object creation, etc., all important aspects of the OO paradigm. Their work has led to a fundamental change in how software systems are designed and programmed, resulting in reusable, reliable, scalable applications that have streamlined the process of writing software code and facilitated software programming. Current object-oriented programming languages include C++ and Java, both widely used in programming a wide range of applications from large-scale distributed systems to small, personal applications, including personal computers, home entertainment devices, and stand-alone arcade applications.
+
+1 4 Dahl became a full professor in 1968 at the University of Oslo, creating the discipline of computer science here. He was the first professor of informatics, responsible for establishing research and education programs in this rapidly expanding field. Here he worked on Hierarchical Program Structures, probably his most influential publication, which appeared co-authored with C.A.R. Hoare in the influential book Structured Programming of 1972 by Dahl, Dijkstra and Hoare, perhaps the best-known academic book concerning software in the 1970s.
+
+1 5 In his University career, Dahl focused on the use of formal methods, to rigorously reason about programs. Unlike many theoretical computer scientists at the time, his work had a solid motivation in practical applicability and implementation experience. With Owe, who became his closest collaborator, he investigated languages, specification, verification and related tool development, in the long term ABEL project, and in the development of formal methods for object-orientation. His research is today represented and continued by the PMA research group.
+
+2 0 NORA. I natt sover jeg ikke.
+
+2 1 HELMER. Men, kjære Nora -
+
+2 2 NORA (ser på sitt ur). Klokken er ennu ikke så mange. Sett deg her, Torvald; vi to har meget å tale sammen. (hun setter seg ved den ene side av bordet.)
+
+2 3 HELMER. Nora, - hva er dette her? Dette stivnede uttrykk -
+
+2 4 NORA. Sett deg ned. Det blir langt. Jeg har meget å tale med deg om.
+
+2 5 HELMER (setter seg ved bordet like overfor henne). Du engster meg, Nora. Og jeg forstår deg ikke.
+
+2 6 NORA. Nei, det er det just. Du forstår meg ikke. Og jeg har heller aldri forstått deg - før i aften. Nei, du skal ikke avbryte meg. Du skal bare høre på hva jeg sier. - Dette er et oppgjør, Torvald.
+
+2 7 HELMER. Hvorledes mener du det?
+
+2 8 NORA (efter en kort taushet). Er deg ikke én ting påfallende, således som vi sitter her?
+
+2 9 HELMER. Hva skulle det så være?
+
+2 10 NORA. Vi har nu vært gift i åtte år. Faller det deg ikke inn at det er første gang vi to, du og jeg, mann og kone, taler alvorlig sammen?
+
+2 11 HELMER. Ja, alvorlig, - hva vil det si?
+
+2 12 NORA. I åtte samfulle år, - ja lenger, - like fra vårt første bekjentskap, har vi aldri vekslet et alvorlig ord om alvorlige ting.
+
+2 13 HELMER. Skulle jeg da idelig og alltid innvie deg i bekymringer som du dog ikke kunne hjelpe meg å bære?
+
+2 14 NORA. Jeg taler ikke om bekymringer. Jeg sier vi har aldri sittet i alvor sammen for å søke å komme til bunns i noe.
+
+2 15 HELMER. Men, kjæreste Nora, ville da det ha vært for deg?
+
+2 16 NORA. Der er vi ved saken. Du har aldri forstått meg. - Der er øvet megen urett imot meg, Torvald. Først av pappa og siden av deg.
+
+2 17 HELMER. Hva! Av oss to, - av oss to der har elsket deg høyere enn alle andre mennesker?
+
+2 18 NORA (ryster på hodet). I har aldri elsket meg. I har bare syntes det var fornøyelig å være forelsket i meg.
+
+2 19 HELMER. Men Nora, hva er dette for ord?
+
+2 20 NORA. Ja, det er nu så, Torvald. Da jeg var hjemme hos pappa, så fortalte han meg alle sine meninger, og så hadde jeg de samme meninger; og hvis jeg hadde andre, så skjulte jeg det; for det ville han ikke ha likt. Han kalte meg sitt dukkebarn, og han lekte med meg som jeg lekte med mine dukker. Så kom jeg i huset til deg -
+
+2 21 HELMER. Hva er det for uttrykk du bruker om vårt ekteskap?
+
+2 22 NORA (uforstyrret). Jeg mener, så gikk jeg fra pappas hender over i dine. Du innrettet all ting efter din smak, og så fikk jeg den samme smak som du; eller jeg lot bare så; jeg vet ikke riktig -; jeg tror det var begge dele; snart det ene og snart det annet. Når jeg nu ser på det, så synes jeg jeg har levet her som et fattig menneske - bare fra hånden til munnen. Jeg har levet av å gjøre kunster for deg, Torvald. Men du ville jo ha det så. Du og pappa har gjort stor synd imot meg. I er skyld i at der ikke er blitt noe av meg.
+
+2 23 HELMER. Nora, hvor du er urimelig og utakknemlig! Har du ikke vært lykkelig her?
+
+2 24 NORA. Nei, det har jeg aldri vært. Jeg trodde det; men jeg har aldri vært det.
+
+2 25 HELMER. Ikke - ikke lykkelig!
+
+2 26 NORA. Nei; bare lystig. Og du har alltid vært så snill imot meg. Men vårt hjem har ikke vært annet enn en lekestue. Her har jeg vært din dukkehustru, liksom jeg hjemme var pappas dukkebarn. Og børnene, de har igjen vært mine dukker. Jeg syntes det var fornøyelig når du tok og lekte med meg, liksom de syntes det var fornøyelig når jeg tok og lekte med dem. Det har vært vårt ekteskap, Torvald.
+
+2 27 HELMER. Det er noe sant i hva du sier, - så overdrevent og overspent det enn er. Men herefter skal det bli annerledes. Lekens tid skal være forbi; nu kommer oppdragelsens.
+
+2 28 NORA. Hvis oppdragelse? Min eller børnenes?
+
+2 29 HELMER. Både din og børnenes, min elskede Nora.
+
+2 30 NORA. Akk, Torvald, du er ikke mann for å oppdra meg til en rett hustru for deg.
+
+2 31 HELMER. Og det sier du?
+
+2 32 NORA. Og jeg, - hvorledes er jeg forberedt til å oppdra børnene?
+
+2 33 HELMER. Nora!
+
+2 34 NORA. Sa du det ikke selv for en stund siden, - den oppgave torde du ikke betro meg.
+
+2 35 HELMER. I oppbrusningens øyeblikk! Hvor vil du akte på det?
+
+2 36 NORA. Jo; det var meget riktig sagt av deg. Jeg makter ikke den oppgave. Der er en oppgave som må løses først. Jeg må se å oppdra meg selv. Det er du ikke mann for å hjelpe meg med. Det må jeg være alene om. Og derfor reiser jeg nu fra deg.
+
+2 37 HELMER (springer opp). Hva var det du sa?
+
+2 38 NORA. Jeg må stå ganske alene hvis jeg skal få rede på meg selv og på alle ting utenfor. Derfor kan jeg ikke bli hos deg lenger.
+
+2 39 HELMER. Nora, Nora!
+
+2 40 NORA. Jeg vil gå herfra nu straks. Kristine tar nok imot meg for i natt -
+
+2 41 HELMER. Du er avsindig! Du får ikke lov! Jeg forbyr deg det!
+
+2 42 NORA. Det kan ikke nytte å forby meg noe herefter. Jeg tar med meg hva der tilhører meg selv. Av deg vil jeg ingenting ha, hverken nu eller senere.
+
+2 43 HELMER. Hvilket vanvidd er dog dette!
+
+2 44 NORA. I morgen reiser jeg hjem, - jeg mener, til mitt gamle hjemsted. Der vil det være lettest for meg å komme inn i et eller annet.
+
+2 45 HELMER. Å du forblindede, uerfarne skapning.
+
+2 46 NORA. Jeg må se å få erfaring, Torvald.
+
+2 47 HELMER. Forlate ditt hjem, din mann og dine børn! Og du tenker ikke på hva folk vil si.
+
+2 48 NORA. Det kan jeg ikke ta noe hensyn til. Jeg vet bare det blir nødvendig for meg.
+
+2 49 HELMER. Å, det er opprørende. Således kan du svikte dine helligste plikter.
+
+2 50 NORA. Hva regner du da for mine helligste plikter?
+
+2 51 HELMER. Og det skal jeg behøve å si deg! Er det ikke pliktene imot din mann og dine børn?
+
+2 52 NORA. Jeg har andre likså hellige plikter.
+
+2 53 HELMER. Det har du ikke. Hvilke plikter skulle det være.
+
+2 54 NORA. Pliktene imot meg selv.
+
+2 55 HELMER. Du er først og fremst hustru og mor.
+
+2 56 NORA. Det tror jeg ikke lenger på. Jeg tror at jeg er først og fremst et menneske, jeg, likså vel som du, - eller iallfall at jeg skal forsøke på å bli det. Jeg vet nok at de fleste gir deg rett, Torvald, at det står noe slikt i bøkene. Men jeg kan ikke lenger la meg nøye med hva de fleste sier, og hva der står i bøkene. Jeg må selv tenke over de ting og se å få rede på dem.
+
+2 57 HELMER. Du skulle ikke ha rede på din stilling i ditt eget hjem? Har du ikke i sånne spørsmål en usvikelig veileder? Har du ikke religionen?
+
+2 58 NORA. Akk, Torvald, jeg vet jo slett ikke riktig hva religionen er.
+
+2 59 HELMER. Hva er det du sier!
+
+2 60 NORA. Jeg vet jo ikke annet enn hva presten Hansen sa da jeg gikk til konfirmasjonen. Han fortale at religionen var det og det. Når jeg kommer bort fra alt dette her og blir ensom, så vil jeg undersøke den sak også. Jeg vil se om det var riktig hva presten Hansen sa, eller iallfall om det er riktig for meg.
+
+2 61 HELMER. Å, slikt er dog uhørt av en så ung kvinne! Men kan ikke religionen rettlede deg, så la meg dog ryste opp i din samvittighet. For moralsk følelse har du dog? Eller, svar meg, - har du kanskje ingen?
+
+2 62 NORA. Ja, Torvald, det er ikke godt å svare på det. Jeg vet det jo slett ikke. Jeg er ganske i villrede med de ting. Jeg vet bare at jeg har en ganske annen mening om slikt noe enn du. Jeg hører også nu at lovene er annerledes enn jeg tenkte; men at de love skulle være riktige, det kan jeg umulig få i mitt hode. En kvinne skal altså ikke ha rett til å skåne sin gamle døende far, eller til å redde sin manns liv! Slikt tror jeg ikke på.
+
+2 63 HELMER. Du taler som et barn. Du forstår ikke det samfunn du lever i.
+
+2 64 NORA. Nei, det gjør jeg ikke. Men nu vil jeg sette meg inn i det. Jeg må se å komme efter hvem der har rett, samfunnet eller jeg.
+
+2 65 HELMER. Du er syk, Nora; du har feber; jeg tror nesten du er fra sans og samling.
+
+2 66 NORA. Jeg har aldri følt meg så klar og sikker som i natt.
+
+2 67 HELMER. Og klar og sikker forlater du din mann og dine børn?
+
+2 68 NORA. Ja; det gjør jeg.
+
+2 69 HELMER. Så er kun én forklaring mulig.
+
+2 70 NORA. Hvilken?
+
+2 71 HELMER. Du elsker meg ikke mer.
+
+2 72 NORA. Nei, det er just tingen.
+
+2 73 HELMER. Nora! - Og det sier du!
+
+2 74 NORA. Å, det gjør meg så ondt, Torvald; for du har alltid vært så snill imot meg. Men jeg kan ikke gjøre ved det. Jeg elsker deg ikke mer.
+
+2 75 HELMER (med tilkjempet fatning). Er dette også en klar og sikker overbevisning?
+
+2 76 NORA. Ja, fullkommen klar og sikker. Det er derfor jeg ikke vil være her lenger.
+
+2 77 HELMER. Og vil du også kunne gjøre meg rede for hvorved jeg har forspilt din kjærlighet?
+
+2 78 NORA. Ja, det kan jeg godt. Det var i aften da det vidunderlige ikke kom; for da så jeg at du ikke var den mann jeg hadde tenkt meg.
+
+2 79 HELMER. Forklar deg nøyere; jeg begriper deg ikke.
+
+2 80 NORA. Jeg har ventet så tålmodig nu i åtte år; for Herregud, jeg innså jo nok at det vidunderlige kommer ikke sånn til hverdags. Så brøt dette knusende inn over meg; og da var jeg så usvikelig viss på: nu kommer det vidunderlige. Da Krogstads brev lå der ute, - aldri falt det meg med en tanke inn at du kunne ville bøye deg under dette menneskes vilkår. Jeg var så usvikelig viss på at du ville si til ham: gjør saken bekjent for hele verden. Og når det var skjedd -
+
+2 81 HELMER. Ja hva så? Når jeg hadde prisgitt min egen hustru til skam og skjensel -!
+
+2 82 NORA. Når det var skjedd, da tenkte jeg så usvikelig sikkert at du ville tre frem og ta alt på deg og si: jeg er den skyldige.
+
+2 83 HELMER. Nora -!
+
+2 84 NORA. Du mener at jeg aldri ville tatt imot et slikt offer av deg? Nei, det forstår seg. Men hva ville mine forsikringer gjelde like overfor dine? - Det var det vidunderlige som jeg gikk og håpet på i redsel. Og for å hindre det, var det at jeg ville ende mitt liv.
+
+2 85 HELMER. Jeg skulle gladelig arbeide netter og dage for deg, Nora, - bære sorg og savn for din skyld. Men der er ingen som ofrer sin ære for den man elsker.
+
+2 86 NORA. Det har hundre tusen kvinner gjort.
+
+2 87 HELMER. Å, du både tenker og du taler som et uforstandig barn.
+
+2 88 NORA. La gå. Men du hverken tenker eller taler som den mann jeg skal kunne slutte meg til. Da din forskrekkelse var over, - ikke for hva der truet meg, men for hva du selv var utsatt for, og da hele faren var forbi, - da var det for deg som om slett ingen ting var skjedd. Jeg var akkurat som før din lille sanglerke, din dukke, som du herefter skulle bære dobbelt varlig på hendene, siden den var så skjør og skrøpelig. (reiser seg.) Torvald, - i den stund gikk det opp for meg at jeg i åtte år hadde levet her sammen med en fremmed mann, og at jeg hadde fått tre børn -. Å jeg tåler ikke å tenke på det! Jeg kunne rive meg selv i stumper og stykker.
+
+2 89 HELMER (tungt). Jeg ser det; jeg ser det. Der er visselig kommet en avgrunn imellem oss. - Å, men, Nora, skulle den ikke kunne utfylles?
+
+2 90 NORA. Således som jeg nu er, er jeg ingen hustru for deg.
+
+2 91 HELMER. Jeg har kraft til å bli en annen.
+
+2 92 NORA. Måskje, - hvis dukken tas fra deg.
+
+2 93 HELMER. Å skilles - skilles fra deg! Nei, nei, Nora, jeg kan ikke fatte den tanke.
+
+2 94 NORA (går inn til høyre). Dess vissere må det skje. (hun kommer tilbake med sitt yttertøy og en liten vadsekk, som hun setter på stolen ved bordet.)
+
+2 95 HELMER. Nora, Nora, ikke nu! Vent til i morgen.
+
+2 96 NORA (tar kåpen på). Jeg kan ikke bli liggende natten over i en fremmed manns værelser.
+
+2 97 HELMER. Men kan vi da ikke bo her som bror og søster -?
+
+2 98 NORA (binder hatten fast). Du vet meget godt det ville ikke vare lenge -. (slår sjalet om seg.) Farvel, Torvald. Jeg vil ikke se de små. Jeg vet de er i bedre hender enn mine. Således som jeg nu er, kan jeg ingen ting være for dem.
+
+2 99 HELMER. Men en gang, Nora, - en gang -?
+
+2 100 NORA. Hvor kan jeg vite det? Jeg vet jo slett ikke hva der blir ut av meg.
+
+2 101 HELMER. Men du er min hustru, både som du er, og som du blir.
+
+2 102 NORA. Hør, Torvald; - når en hustru forlater sin manns hus, således som jeg nu gjør, så har jeg hørt at han efter loven er løst fra alle forpliktelser imot henne. Jeg løser deg iallfall fra enhver forpliktelse. Du skal ikke føle deg bundet ved noe, like så litt som jeg vil være det. Der må være full frihet på begge sider. Se her har du din ring tilbake. Gi meg min.
+
+2 103 HELMER. Også dette?
+
+2 104 NORA. Dette også.
+
+2 105 HELMER. Her er den.
+
+2 106 NORA. Så. Ja, nu er det altså forbi. Her legger jeg nøklene. Om alle saker i huset vet pikene beskjed - bedre enn jeg. I morgen, når jeg er reist, kommer Kristine her hen for å pakke sammen de ting som er min eiendom hjemmefra. Det vil jeg ha sendt efter meg.
+
+2 107 HELMER. Forbi; forbi! Nora, vil du aldri mer tenke på meg?
+
+2 108 NORA. Jeg kommer visst ofte til å tenke på deg og på børnene og på huset her.
+
+2 109 HELMER. Må jeg skrive deg til, Nora?
+
+2 110 NORA. Nei, - aldri. Det får du ikke lov til.
+
+2 111 HELMER. Å, men sende deg må jeg dog -
+
+2 112 NORA. Intet; intet.
+
+2 113 HELMER. - hjelpe deg hvis du skulle behøve det.
+
+2 114 NORA. Nei, sier jeg. Jeg mottar ingen ting av fremmede.
+
+2 115 HELMER. Nora, - kan jeg aldri bli mer enn en fremmed for deg?
+
+2 116 NORA. (tar sin vadsekk). Akk, Torvald, da måtte det vidunderligste skje. -
+
+2 117 HELMER. Nevn meg dette vidunderligste!
+
+2 118 NORA. Da måtte både du og jeg forvandle oss således at -. Å, Torvald, jeg tror ikke lenger på noe vidunderlig.
+
+2 119 HELMER. Men jeg vil tro på det. Nevn det! Forvandle oss således at -?
+
+2 120 NORA. At samliv mellom oss to kunne bli et ekteskap. Farvel.
+
+2 121 (hun går ut gjennem forstuen.)
+
+2 122 HELMER. (synker ned på en stol ved døren og slår hendene for ansiktet). Nora! Nora! (ser seg om og reiser seg.) Tomt. Hun er her ikke mer. (et håp skyter opp i ham.) Det vidunderligste -?!
+
+3 0 Kongeriket Norges Grunnlov gitt i riksforsamlingen på Eidsvoll den 17. mai 1814, slik den lyder etter senere endringer, senest grunnlovsvedtak av 13. mai 2014.
+
+3 1 A. Om statsformen
+
+3 2 §1 Kongeriket Norge er et fritt, selvstendig, udelelig og uavhendelig rike. Dets regjeringsform er innskrenket og arvelig monarkisk.
+
+3 3 §2 Verdigrunnlaget forblir vår kristne og humanistiske arv. Denne Grunnlov skal sikre demokratiet, rettsstaten og menneskerettighetene.
+
+3 4 B. Om den utøvende makt, kongen og den kongelige familie og om religionen
+
+3 5 §3 Den utøvende makt er hos kongen eller hos dronningen, hvis hun har ervervet kronen etter bestemmelsene i § 6, § 7 eller § 48 i denne Grunnlov. Når den utøvende makt således er hos dronningen, har hun alle de rettigheter og plikter som ifølge denne Grunnlov og landets lover innehas av kongen.
+
+3 6 §4 Kongen skal alltid bekjenne seg til den evangelisk-lutherske religion.
+
+3 7 §5 Kongens person er hellig; han kan ikke lastes eller anklages. Ansvarligheten påligger hans råd.
+
+3 8 §6 Arvefølgen er lineal, således at bare i lovlig ekteskap født barn av konge eller dronning eller av en som selv er arveberettiget, kan arve, og at den nærmere linje går foran den fjernere og den eldre i linjen foran den yngre. Blant arveberettigede regnes også den ufødte, som straks inntar sitt tilbørlige sted i arvelinjen når han eller hun fødes til verden. Dog tilkommer arverett ikke noen som ikke er født i rett nedstigende linje fra den sist regjerende konge eller dronning eller fra dennes bror eller søster, eller selv er dennes bror eller søster. Når en til Norges krone arveberettiget prins eller prinsesse fødes, skal hans eller hennes navn og fødselstid tilkjennegis førstholdende storting og antegnes i dets protokoll. For dem som er født tidligere enn året 1971, gjelder dog denne Grunnlovs § 6 således som den ble vedtatt den 18. november 1905. For dem som er født tidligere enn året 1990, gjelder likevel at mann går foran kvinne.
+
+3 9 §7 Er ingen arveberettiget prins eller prinsesse til,kan kongen foreslå sin etterfølger for Stortinget, som har rett til å bestemme valget hvis kongens forslag ikke bifalles.
+
+3 10 §8 Kongens myndighetsalder fastsettes ved lov. Så snart kongen har oppnådd den lovbestemte alder, erklærer han seg offentlig å være myndig.
+
+3 11 §9 Så snart kongen, som myndig, tiltrer regjeringen, avlegger han følgende ed for Stortinget: «Jeg lover og sverger å ville regjere kongeriket Norge i overensstemmelse med dets konstitusjon og lover, så sant hjelpe meg Gud den allmektige og allvitende!» Er intet storting på den tid samlet, nedlegges eden skriftlig i statsrådet og gjentas høytidelig av kongen på første storting.
+
